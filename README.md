@@ -1,5 +1,3 @@
-🏷️ readme-template-v1
-
 # Virtual Pochi Bukuro (バーチャルポチ袋)
 
 🧧 _バーチャルポチ袋: A playful virtual envelope-style budgeting app built with Elixir._
